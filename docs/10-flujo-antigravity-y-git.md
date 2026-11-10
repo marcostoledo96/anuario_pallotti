@@ -19,7 +19,7 @@ Al cierre: 1) guardar prompt y ficha en carpeta institucional, 2) copiar archivo
 
 ## Repositorio ya creado y copia local del docente
 
-Repositoro real: `marcostoledo96/anuario_pallotti`, rama `main`. Al crear este kit figuraba **público**. Se recomienda cambiarlo a privado desde GitHub → Settings → General → Danger Zone si corresponde. En cualquier caso, nunca subir fotografías de menores, autorizaciones ni textos identificables sin aprobación institucional.
+Repositorio real: `marcostoledo96/anuario_pallotti`, rama `main`. Al crear este kit figuraba **público**. Se recomienda cambiarlo a privado desde GitHub → Settings → General → Danger Zone si corresponde. En cualquier caso, nunca subir fotografías de menores, autorizaciones ni textos identificables sin aprobación institucional.
 
 En tu ordenador, clonar la copia maestra:
 
