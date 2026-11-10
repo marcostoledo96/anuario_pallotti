@@ -1,0 +1,16 @@
+# Información privada y materiales recibidos fuera del repositorio
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.log
+node_modules/
+ANUARIO_7_2026_PRIVADO/
+privado/
+consentimientos/
+autorizaciones/
+material_original/
+assets/publicables/*
+!assets/publicables/.gitkeep
+# archivos temporales del aula
+*.tmp
